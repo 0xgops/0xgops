@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">0xgops</h1>
+<p align="center">
+🧠 Operator at the intersection of <b>AI</b>, <b>autonomy</b>, and <b>cryptography</b>.<br>
+⚙️ Architecting agents, APIs, and automated systems.<br>
+🌐 On a mission to weaponize data, automate intelligence, and build sovereignty in a machine-driven world.
+</p>
 
-<!--
-**0xgops/0xgops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔥 Current Projects
+- 🔗 **GregStack** → Lightweight API frameworks for autonomous agents and data pipelines.
+- 🕸️ **Scraper Lab** → Data extraction pipelines. Turning the web into structured signal.
+- 📈 **SignalOps** → Market prediction models, betting strategies, volatility overlays.
+- 🤖 **AgentOps** → Autonomous AI-driven agents for data, communication, and execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏗️ Build Philosophy
+> “The future belongs to those who automate it.”
+
+- 🛠️ Autonomous Systems
+- 🔗 Data Pipelines
+- 🤖 AI-First Architectures
+- 🌐 Crypto-Native Infrastructure
+- ⚙️ Operational Intelligence
+
+---
+
+## 🛰️ Connected Systems
+- **GitHub:** [0xgops](https://github.com/0xgops)
+- **Farcaster:** `@0xgops`
+- **ENS:** `0xgops.eth`
+- **Warpcast / Mirror / TBD:**
+
+---
+
+<p align="center">
+  <b><i>Always shipping. Always signal hunting.</i></b> 🚀
+</p>
