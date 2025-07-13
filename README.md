@@ -2,7 +2,7 @@
 <p align="center">
 🧠 Operator at the intersection of <b>AI</b>, <b>autonomy</b>, and <b>cryptography</b>.<br>
 ⚙️ Architecting agents, APIs, and automated systems.<br>
-🌐 On a mission to weaponize data, automate intelligence, and build sovereignty in a machine-driven world.
+🌐 On a mission to empower data, automate intelligence, and build sovereignty in a machine-driven world.
 </p>
 
 ---
